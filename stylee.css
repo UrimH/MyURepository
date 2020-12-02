@@ -1,0 +1,297 @@
+html {
+	font-family:Tahoma;
+	font-size:13px;
+	background-color:ffffff;
+}
+*{
+	padding:0;
+	margin:0;
+}
+a{
+	color:black;
+	text-decoration:none;
+}
+body{
+	background-color:#ccffcc;
+    padding:0;margin:0;	
+}
+#header,#page,#footer,#hasan{
+	width:80%;
+	background-color:fff;
+	height:200px;
+	border:1px solid #8cd7f8;
+	margin:0 auto;
+}
+#header{
+	width:90%;
+	height:50px;
+	background-color:blue;
+}
+#slogan{
+	float:left;
+	width:30%;
+}
+#slogan h1{
+	text-align:center;
+	color:white;
+}
+#slogan p{
+	text-align:center;
+	color:white;
+}
+#login{
+	background-color:#3366ff;
+	color:white;
+	float:right;
+	width:33%;
+	height:35px;
+}
+#logini{
+	margin-top:10px;
+	margin-left:5px;
+	
+}
+#logini p{
+	float:right;
+	margin-right:50px;
+	color:white;
+}
+#hasan{
+	width:90%;
+	height:31px;
+	background-color:#3366ff;
+}
+#menu{
+	width:60%;
+	float:left;
+	
+}
+#menu ul{
+	list-style-type:none;
+	margin-top:7px;
+	margin-left:3px;
+	
+}
+#menu ul li{
+	background-color:#dddddd;
+	display:inline;
+	padding:5px 10px;
+}
+#searchlang{
+	float:right;
+	margin-top:5px;
+	margin-right:5px;
+}
+#pages{
+	width:90%;
+	border:1px solid #8cd7f8;
+	background-color:#eeeeee;
+	height:901px;
+	margin:0 auto;
+}
+#page{
+	height:900px;
+	background-color:#ffccff;
+	width:89%;
+	border-bottom:3px solid blue;
+}
+#ballina,#libra,#content,#sidebar_1,#sidebar_2,#sidebar_3,#sidebar_4{
+	border:1px solid #8cd7f8;
+	height:350;
+	background-color:#dddddd;
+	margin-top:2px;
+	margin-right:2px;
+}
+#ballina{
+	margin-left:2px;
+	float:left;
+	width:64%;
+	font-size:12px;
+	height:23px;
+	color:white;
+    background-color:blue;
+}
+#libra{
+	font-size:12px;
+	color:white;
+	width:33%;
+	padding-right:6px;
+	float:right;
+	height:23px;
+	background-color:blue;
+	border-bottom:3px solid #000066;
+}
+#content{
+	margin-left:2px;
+	width:64%;
+	float:left;
+	height:870px;
+}
+#content ul{
+	display:block;
+	margin-left:100px;
+}
+#content ul li{
+	margin-left:100px;
+}
+#content ul li a{
+	color:blue;
+}
+.photos{
+	height:225px;
+	width:27%;
+	margin-left:5px;
+	margin-top:5px;
+	margin-right:5px;
+	float:left;
+}
+#photoo{
+	float:right;
+	height:235px;
+	width:27.5%;
+	margin-right:5px;
+	margin-left:5px;
+}
+#content h2,#content p{
+	display:inline;
+	margin-left:10px;
+}
+#rresht{
+	float:left;
+	width:100%;
+	margin-left:160px;
+	height:20px;
+	
+}
+#rresht button{
+	display:inline;
+	margin-left:20px;
+	margin-top:20px;
+	padding:2px 4px;
+}
+#rresht p{
+	
+}
+#sidebar{
+	height:800px;
+	float:right;
+	width:34%;
+}
+#sidebar_1{
+	margin-top:0px;
+}
+.photo{
+	height:135px;
+	width:35%;
+	margin-left:30px;
+	margin-top:25px;
+}
+#sidebar_1 p{
+    float:right;
+	margin-right:30px;
+	margin-top:5px;
+}
+#sidebar_1 a{
+	color:blue;
+	text-decoration:underline;
+}
+#sidebar_2{
+	height:200px;
+}
+#sidebar_2 button{
+	border:1px solid #dddddd;
+	float:left;
+	background-color:blue;
+	height:35px;
+	width:33.33%;
+	text-align:center;
+	border-bottom:2px solid blue
+}
+#sidebar_3{
+	height:154px;
+}
+#sidebar_3 h4{
+	margin-left:8px;
+	margin-top:8px;
+}
+#math_1{
+	width:50%;
+	height:154px;
+	float:left;
+}
+#math_1 ul{
+	float:left;
+}
+#math_1 ul li{
+	display:block;
+	padding:4px 7px;
+	background-color:#eeeeee;
+	margin-left:8px;
+	margin-top:6px;
+}
+#math_1 ul li a{
+	color:blue;
+}
+#math_2{
+	width:50%;
+	height:154px;
+	float:right;
+}
+#math_2 ul{
+	float:left;
+}
+#math_2 ul li{
+	display:block;
+	padding:4px 7px;
+	background-color:#eeeeee;
+	margin-left:8px;
+	margin-top:6px;
+	padding-right:70px;
+}
+#math_2 ul li a{
+	color:blue;
+}
+#sidebar_4{
+	height:154px;
+}
+#footer{
+	width:90%;
+	height:100px;
+	border-top:3px solid blue;
+}
+#footer_i,#pre_footer_i{
+	width:100%;
+	float:left;
+	border:1px solid #8cd7f8;
+	background-color:blue;
+}
+#footer_i{
+	height:40px;
+	background-color:#3366ff;
+}
+#footer_i p{
+	font-size:16px;
+	color:white;
+	text-align:center;
+	margin-top:10px;
+}
+#pre_footer_i{
+	height:60;
+}
+#pre_footer_i p{
+	
+}
+.p{
+	font-size:14px;
+	float:left;
+	display:inline;
+	margin-left:20px;
+	margin-top:18px;
+	padding:1px 3px;
+	background-color:#3366ff;
+}
+.p a{
+	color:white;
+	text-decoration:underline;
+	text-align:center;
+}
